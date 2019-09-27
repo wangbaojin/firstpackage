@@ -1,0 +1,10 @@
+{
+    "name": "wangbaojin/firstpackage",
+    "authors": [
+        {
+            "name": "wangbaojin",
+            "email": "wangbaojin1006@163.com"
+        }
+    ],
+    "require": {}
+}
