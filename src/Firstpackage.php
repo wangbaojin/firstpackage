@@ -10,7 +10,7 @@ class Firstpackage
 
 	protected $config;
 	/**
-	 * 构造方法
+	 * 构造方法test
 	 */
 	public function __construct(Repository $config)
 	{
